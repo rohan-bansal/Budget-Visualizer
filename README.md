@@ -1,6 +1,6 @@
 # Budget-Visualizer
 
-__Uses a database to store budget data.__
+__Uses a text file database to store budget data.__
 
 *LosAltosHacks 2018 project for submission.* 
 
